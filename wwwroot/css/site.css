@@ -14,7 +14,8 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    background-image: url("https://i.pinimg.com/736x/aa/c0/85/aac0855bc7b3ebc29bdc261f51b9ff81.jpg");
+    margin-bottom: 60px;
 }
 
 header ul {
@@ -28,3 +29,4 @@ header ul li{
     margin-right: 10px;
    
 }
+
